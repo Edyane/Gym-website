@@ -1,10 +1,13 @@
+import React from "react";
 import "./App.css";
 import Header from "./components/Header/Header";
+import Hero from "./components/UI/Hero"
 
 function App() {
   return (
     <>
       <Header />
+      <Hero />
     </>
   )
 }

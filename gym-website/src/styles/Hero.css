@@ -1,0 +1,23 @@
+.hero__wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+}
+
+.hero__content .section__title {
+    font-size: 3rem;
+    padding-right: 50px;
+    line-height: 60px;
+    margin-bottom: 20px;
+}
+
+.highlights {
+    color: var(--primary-color);
+}
+
+.hero__content p {
+    font-size: 1.1rem;
+    color: var(--heading-color);
+    margin-bottom: 50px;
+    line-height: 30px;
+}
