@@ -10,12 +10,11 @@ const Hero = () => {
                 <div className="hero__wrapper">
                     {/*------ Hero content ------*/}
                     <div className="hero__content">
-                        <h2>Exercise is the key to a
+                        <h2 className="section__title">Exercise is the key to a
                             <span className="highlights"> Healthy</span> Lifestyle
                         </h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dolor odio dolore
-                        expedita, facere minus tempora?</p>
-
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam <br />
+                        dolor odio dolore expedita, facere minus tempora?</p>
 
                         <div className="hero__btns">
                             <button className="register__btn">Get Started</button>
@@ -51,7 +50,8 @@ const Hero = () => {
 
                         <div className="gym__location">
                             <span><i className="ri-map-pin-2-fill"></i></span>
-                            <h5>Find a new gym near you</h5>
+                            <h5>Find a new <br />
+                                gym near you</h5>
                         </div>
 
                         <div className="dumble__icon">
