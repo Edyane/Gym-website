@@ -44,3 +44,19 @@
 .exercise__icon img {
     width: 100%;
 }
+
+.exercise__content {
+    width: 80%;
+}
+
+.exercise__content h4 {
+    font-size: 1.3rem;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 0.6rem;
+}
+
+.exercise__content p {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.801);
+}

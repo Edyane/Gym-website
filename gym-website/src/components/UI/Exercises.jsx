@@ -28,8 +28,41 @@ const Exercises = () => {
                         <div className="exercise__content">
                             <h4>Healthy Life</h4>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                        </div>
+                        </div>                        
                     </div>
+
+                    <div className="exercise__item">
+                        <span className="exercise__icon">
+                            <img src={yoga} alt="" />
+                        </span>
+
+                        <div className="exercise__content">
+                            <h4>Increased Flexibility</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>                        
+                    </div>
+
+                    <div className="exercise__item">
+                        <span className="exercise__icon">
+                            <img src={extended} alt="" />
+                        </span>
+
+                        <div className="exercise__content">
+                            <h4>Reducing Blood Presure</h4>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>                        
+                    </div>
+
+                    
+
+                   
+
+
+
+
+
+
+
                 </div>
             </div>
         </section>
