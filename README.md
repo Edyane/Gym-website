@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/887544607599120404/1058569768640196638/gym-website.png" alt="exemplo imagem"  width="250px">
+  <img src="https://cdn.discordapp.com/attachments/887544607599120404/1058569768640196638/gym-website.png" alt="exemplo imagem"  width="450px">
 <div>
 
 <br>
