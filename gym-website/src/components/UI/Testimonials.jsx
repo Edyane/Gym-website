@@ -41,7 +41,7 @@ export default function Testimonials() {
                             <div className="slide__item">
                                 <div className="slide__img-02"><img src={avatar02} alt="" />
                                 </div>
-                                <h4>Jesica Fernandes</h4>
+                                <h4>Katerine Smith</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa voluptate
                                 pariatur voluptatem voluptates! Nostrum, laborum. Explicabo iure quod animi,
                                 suscipit iste qui a ullam! Quibusdam velit tenetur sunt facere ipsum.</p>
@@ -50,7 +50,7 @@ export default function Testimonials() {
 
                         <SwiperSlide>
                         <div className="slide__item">
-                                <div className="slide__img-03"><img src={avatar02} alt="" />
+                                <div className="slide__img-03"><img src={avatar01} alt="" />
                                 </div>
                                 <h4>Jesica Fernandes</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa voluptate
